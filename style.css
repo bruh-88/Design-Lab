@@ -1,0 +1,29 @@
+body {
+    background: linear-gradient(pink, hotpink);
+}
+
+.button {
+    text-align: center;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.input {
+    text-align: center;
+    /*margin-top: 50px;*/
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.title{
+    text-align: center;
+    font-size: large;
+    font-weight: 500;
+    font-family: fantasy;
+    font-style: italic;
+    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-left: auto;
+    margin-right: auto;
+}
